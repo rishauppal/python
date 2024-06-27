@@ -9,4 +9,4 @@ for i in range(4):
     for matrix_row in matrix:
         new_row.append(matrix_row[i])
     new.append(new_row)
-print(new
+print(new)
